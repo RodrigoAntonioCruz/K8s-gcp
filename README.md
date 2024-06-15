@@ -1,2 +1,2 @@
-# deployment-kubernetes-gcp
-Deployment-Kubernetes-GCP
+# kubernetes-gcp
+Kubernetes-GCP
